@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528447977056.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B5DD676E",
+    "lastKnownWriteTime" : 1528449408,
+    "last_content_update" : 1528449408630,
+    "path" : "~/iXperience/Factorial/tests/testthat/test_factorial.R",
+    "project_path" : "tests/testthat/test_factorial.R",
+    "properties" : {
+        "cursorPosition" : "0,18",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
